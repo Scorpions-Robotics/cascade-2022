@@ -1,6 +1,6 @@
 # Scorpions Robotics 7672
 
-## Cascade Classifiers for FRC Rapid React Season
+## Cascade Classifiers and Dataset of Images for the FRC Rapid React Season
 
 This repository contains the Cascade Classifiers and a huge dataset of images for the FRC Rapid React Season. We used the 1:3 ratio of pos:neg images to train our classifiers. Feel free to open an issue if you have any questions or suggestions. Have fun!
 
