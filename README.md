@@ -18,9 +18,8 @@ cascade-trainer -neg n -pos p -w 55 -he 12 -s 20 -t 5 --idxSize 5000 --valSize 5
 cascade-trainer -neg n -pos p -w 40 -he 40 -s 20 -t 5 --idxSize 5000 --valSize 5000 -m ALL -npt 800 -npv 992 -nn 2480 -b 0.0001
 ```
 
-**cascade-trainer** is available at <https://pypi.org/project/cascade-trainer>
-
-For more information about parameters, run ``cascade-trainer -h``.
+- **cascade-trainer** is available at <https://pypi.org/project/cascade-trainer>
+- For more information about parameters, run ``cascade-trainer -h``
 
 ### Footnotes
 
