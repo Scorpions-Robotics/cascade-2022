@@ -2,7 +2,7 @@
 
 ## Cascade Classifiers and Dataset of Images for the FRC Rapid React Season
 
-This repository contains the Cascade Classifiers and a huge dataset of images for the FRC Rapid React Season. We used the 1:3 ratio of pos:neg images to train our classifiers. Feel free to open an issue if you have any questions or suggestions. Have fun!
+This repository contains the Cascade Classifiers and a huge dataset of images for the FRC Rapid React Season. All images in this dataset are taken by 7672 Scorpions Robotics. We used the 1:3 ratio of pos:neg images to train our classifiers. Feel free to open an issue if you have any questions or suggestions. Have fun!
 
 ### Commands
 
